@@ -1,8 +1,3 @@
-<<<<<<< HEAD
 GITHUB: https://github.com/WillianDev99/comunica-o-por-RPC.git
-
-=======
-GITHUB: https://github.com/WillianDev99/comunica-o-por-RPC
->>>>>>> 30fe26240a6ec587126d3bedfe86ac255de5b243
 
 YOUTUBE: https://youtu.be/w0JWrJnLYyA
